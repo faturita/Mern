@@ -8,7 +8,7 @@
     "cf-deployment-tracker-client": "*",
     "commander": "^2.20.3",
     "eslint": "^4.19.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "foreman": "^2.0.0",
     "http-post": "^0.1.1",
     "http-proxy": "^1.18.0",
